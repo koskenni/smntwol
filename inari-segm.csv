@@ -1,0 +1,141 @@
+MORPHEMES,MORPHS,COMMENT
+algâ+N +Sg+Nom,algâ.,= alku
+algâ+N +Sg+Gen,aalgâ.,
+algâ+N +Sg+Acc,aalgâ.,
+algâ+N +Sg+Ill,aalgâ.n,
+algâ+N +Sg+Loc,aalgâ.st,
+algâ+N +Sg+Com,algá.in,
+algâ+N +Sg+Abe,a´lgâ.ttáá,
+algâ+N +Ess,algâ.n,
+algâ+N +Par,algâ.d,
+algâ+N +Pl+Nom,aalga.h,
+algâ+N +Pl+Gen,aalgâ.i,
+algâ+N +Pl+Gen,a´lgâ.i,
+algâ+N +Pl+Acc,aalgâ.id,
+algâ+N +Pl+Ill,algá.id,
+algâ+N +Pl+Loc,aalgâ.in,
+algâ+N +Pl+Com,a´lgâ.iguijn,
+algâ+N +Pl+Com,a´lgâ.igijn,
+algâ+N +Pl+Abe,a´lgâ.ittáá,
+kumppi+N +Sg+Nom,kumppi.,= susi
+kumppi+N +Sg+Gen,kuumpi.,
+kumppi+N +Sg+Acc,kuumpi.,
+kumppi+N +Sg+Ill,kuumpi.n,
+kumppi+N +Sg+Loc,kuumpi.st,
+kumppi+N +Sg+Com,kumppi.jn,
+kumppi+N +Sg+Abe,ku´mpi.ttáá,
+kumppi+N +Ess,kumppi.n,
+kumppi+N +Par,kumppi.d,
+kumppi+N +Pl+Nom,kuumpi.h,
+kumppi+N +Pl+Gen,kuumpi.j,
+kumppi+N +Pl+Gen,ku´mpi.j,
+kumppi+N +Pl+Acc,kuumpi.jd,
+kumppi+N +Pl+Ill,kumppi.jd,
+kumppi+N +Pl+Loc,kuumpi.jn,
+kumppi+N +Pl+Com,ku´mpi.jguin,
+kumppi+N +Pl+Com,ku´mpi.jgijn,
+kumppi+N +Pl+Abe,kumpi.jttáá,
+kyeli+N +Sg+Nom,kyel`i.,= kala
+kyeli+N +Sg+Gen,kye´le.,
+kyeli+N +Sg+Acc,kye´le.,
+kyeli+N +Sg+Ill,kuál`á.n,
+kyeli+N +Sg+Loc,kye´lee.st,
+kyeli+N +Sg+Com,kuoli.jn,
+kyeli+N +Sg+Abe,kye´le.ttáá,
+kyeli+N +Ess,kyelli.n,
+kyeli+N +Par,kyelli.d,
+kyeli+N +Pl+Nom,kye´le.h,
+kyeli+N +Pl+Gen,kuo´li.j,
+kyeli+N +Pl+Gen,kuoli.j,
+kyeli+N +Pl+Acc,kuoli.jd,
+kyeli+N +Pl+Ill,kuoli.jd,
+kyeli+N +Pl+Loc,kuoli.jn,
+kyeli+N +Pl+Com,kuo´li.jguin ,
+kyeli+N +Pl+Com,kuo´li.jgijn,
+kyeli+N +Pl+Abe,kuo´li.jttáá,
+okko+N +Sg+Nom,okko.,= viikko
+okko+N +Sg+Gen,oho.,
+okko+N +Sg+Acc,oho.,
+okko+N +Sg+Ill,ooko.n,
+okko+N +Sg+Loc,ohhoo.st,Vahvan asteen lyhentymä
+okko+N +Sg+Com,ohho.in,Heikon asteen pidentymä
+okko+N +Sg+Abe,oho.ttáá,Heikon asteen pidentymä
+okko+N +Ess,okko.n,
+okko+N +Par,okko.d,
+okko+N +Pl+Nom,oho.h,
+okko+N +Pl+Gen,oho.i,
+okko+N +Pl+Acc,oho.id,
+okko+N +Pl+Ill,ohho.id,
+okko+N +Pl+Loc,oho.in,Heikon asteen pidentymä
+okko+N +Pl+Com,oho.iguin,oho.i.gijn
+okko+N +Pl+Abe,oho.ittáá,
+sukká+N +Sg+Nom,sukká.,= sukka
+sukká+N +Sg+Gen,suhá.,
+sukká+N +Sg+Acc,suhá.,
+sukká+N +Sg+Ill,suuká.n,
+sukká+N +Sg+Loc,suhháá.st,Vahvan asteen lyhentymä
+sukká+N +Sg+Com,suhhá.in,Heikon asteen pidentymä
+sukká+N +Sg+Abe,suhá.ttáá,Heikon asteen pidentymä
+sukká+N +Ess,sukká.n,
+sukká+N +Par,sukká.d,
+sukká+N +Pl+Nom,suhá.h,
+sukká+N +Pl+Gen,suhá.i,
+sukká+N +Pl+Acc,suhá.id,
+sukká+N +Pl+Acc,suhhá.id,(! Tässä kumminkin poikkeus.)
+sukká+N +Pl+Ill,suhhá.id,	 
+sukká+N +Pl+Loc,suhá.in,Heikon asteen pidentymä
+sukká+N +Pl+Com,suhá.iguin,suhá.i.gijn
+sukká+N +Pl+Abe,suhá.ittáá,
+njamma+N +Sg+Nom,njamma.,= rinta (naisen)
+njamma+N +Sg+Gen,njam`a.,
+njamma+N +Sg+Acc,njam`a.,
+njamma+N +Sg+Ill,njaam`a.n,
+njamma+N +Sg+Loc,njammaa.st,Vahvan asteen lyhentymä
+njamma+N +Sg+Com,njamma.in,Heikon asteen pidentymä
+njamma+N +Sg+Abe,njama.ttáá,Heikon asteen pidentymä
+njamma+N +Ess,njamma.n,
+njamma+N +Par,njamma.d,
+njamma+N +Pl+Nom,njam`a.h,
+njamma+N +Pl+Gen,njam`a.i,
+njamma+N +Pl+Acc,njam`a.id,
+njamma+N +Pl+Ill,njamma.id,
+njamma+N +Pl+Loc,njam`a.in,Heikon asteen pidentymä
+njamma+N +Pl+Com,njam`a.iguin, 
+njamma+N +Pl+Com,njam`a.igijn,
+njamma+N +Pl+Abe,njam`a.ittáá,
+alge+N +Sg+Nom,alge.,= poika - luet: /allge/
+alge+N +Sg+Gen,a´lge.,vokaalit luet. puolenatoista mutta jotkut ääntävät ne  pitkinä /aalgee/
+alge+N +Sg+Acc,a´lge.,luet: /aalgee/
+alge+N +Sg+Ill,aalga.n, 
+alge+N +Sg+Loc,algee.st,(sidevok. pitenee)
+alge+N +Sg+Com,olgi.jn,
+alge+N +Sg+Abe,a´lge.ttáá,(3. tavu venyttää myös vokaalia)
+alge+N +Ess,alge.n,
+alge+N +Par,alge.d,
+alge+N +Pl+Nom,a´lge.h,luet: /aalgeeh/
+alge+N +Pl+Gen,oolgi.j,,
+alge+N +Pl+Gen,olgi.j,
+alge+N +Pl+Acc,oolgi.jd,
+alge+N +Pl+Ill,olgi.jd,
+alge+N +Pl+Loc,oolgi.jn,
+alge+N +Pl+Com,olgi.jguin,
+alge+N +Pl+Com,olgi.jgijn,
+alge+N +Pl+Abe,olgi.jttáá,
+puško+N +Sg+Nom,puško.,= hauki
+puško+N +Sg+Gen,pu´ško.,
+puško+N +Sg+Acc,pu´ško.,
+puško+N +Sg+Ill,puuško.n,
+puško+N +Sg+Loc,puškoo.st,
+puško+N +Sg+Com,puško.in,
+puško+N +Sg+Abe,pu´ško.ttáá,
+puško+N +Ess,puško.n,
+puško+N +Par,puško.d,
+puško+N +Pl+Nom,pu´ško.h,
+puško+N +Pl+Gen,pu´ško.i,
+puško+N +Pl+Acc,puško.id,
+puško+N +Pl+Ill,puško.id,
+puško+N +Pl+Loc,pu´ško.in,
+puško+N +Pl+Com,pu´ško.iguin,
+puško+N +Pl+Com,pu´ško.igijn,
+puško+N +Pl+Abe,pu´ško.ittáá,
+ALPHA BET,brvy.eäöáâ,vain jotta aineistossa olisi sääntöjen merkit

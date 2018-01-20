@@ -1,0 +1,13 @@
+Co = [PI .o. [b|d|h|k|l|m|n|p|r|s|t|v]] | j ;
+Ci = [[Co].u .o. PI] ;
+Vo = PI .o. [a | e | i | o | u | y | ä | ö | á | â | :´] ;
+Vi = [[Vo].u .o. PI] ;
+
+{ao}:o <=> _ Vi Ci+ :i :Ø* :j ;
+
+{eáo}:o => _ :Ø Ci+ :i (:Ø) :j ;
+{eáo}:á => _ :Ø Ci+ :á ;
+{eáo}:e /<= _ :Ø Ci+ :i (:Ø) :j ;
+{eáo}:e /<= _ :Ø Ci+ :á ;
+
+{ij}:j => :i :Ø* _ ;
