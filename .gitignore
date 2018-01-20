@@ -3,7 +3,5 @@
 __*__
 *.gnumeric
 *.lexc
-alpha.twolc
-*.bak.*
-test.result
+*.numbers
 
