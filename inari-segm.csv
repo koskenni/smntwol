@@ -1,4 +1,5 @@
 MORPHEMES,MORPHS,COMMENT
+ALPHA BET,brvy.eäöáâ,vain jotta aineistossa olisi sääntöjen merkit
 algâ+N +Sg+Nom,algâ.,= alku
 algâ+N +Sg+Gen,aalgâ.,
 algâ+N +Sg+Acc,aalgâ.,
@@ -138,4 +139,21 @@ puško+N +Pl+Loc,pu´ško.in,
 puško+N +Pl+Com,pu´ško.iguin,
 puško+N +Pl+Com,pu´ško.igijn,
 puško+N +Pl+Abe,pu´ško.ittáá,
-ALPHA BET,brvy.eäöáâ,vain jotta aineistossa olisi sääntöjen merkit
+pispe+N+Sg+Nom,pispe.,= piispa
+pispe+N+Sg+Gen,p'ispe.,
+pispe+N+Sg+Acc,pi´spe.,
+pispe+N+Sg+Ill,piispá.n,
+pispe+N+Sg+Loc,pispee.st,
+pispe+N+Sg+Com,pispi.jn,
+pispe+N+Sg+Abe,pi´spe.ttáá,
+pispe+N+Ess,pispe.n,
+pispe+N+Par,pispe.d,
+pispe+N+Pl+Nom,pi'spe.h,
+pispe+N+Pl+Gen,[piispi.j,
+pispe+N+Pl+Gen,pi'spi.j,
+pispe+N+Pl+Acc,piispi.jd,
+pispe+N+Pl+Ill,pispi.jd,
+pispe+N+Pl+Loc,piispi.jn,
+pispe+N+Pl+Com,pi'spi.jguin,
+pispe+N+Pl+Com,pi'spi.jgijn,
+pispe+N+Pl+Abe,pi'spi.jttáá,
